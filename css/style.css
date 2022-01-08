@@ -1,0 +1,43 @@
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.sidebar{
+    list-style: none;
+    margin-bottom: 200px;
+}
+
+.sidebar li{
+    padding: 10px 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0;
+}
+
+.sidebar a{
+    text-decoration: none;
+    color: rgb(12, 12, 12);
+}
+
+.dashboard{
+    text-align: center;
+    padding: 2px;
+    margin-left: 1px;
+    margin-bottom: 50px;
+}
+
+.table{
+    border-radius: 20px;
+    margin-left: 1px;
+}
+
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
